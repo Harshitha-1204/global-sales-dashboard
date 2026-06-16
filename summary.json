@@ -1,0 +1,79 @@
+{
+    "report_title": "Global Sales Intelligence Dashboard",
+    "eur_usd_rate": 1.162434,
+    "total_orders": 50,
+    "total_revenue_usd": 304560.06,
+    "average_order_usd": 1229.41,
+    "best_product": "Monitor",
+    "best_country": "UK",
+    "revenue_std_deviation": 4473.9,
+    "product_breakdown": [
+        {
+            "product": "Monitor",
+            "total_revenue": 91265.03,
+            "avg_order": 1411.28,
+            "total_units": 67,
+            "num_orders": 13
+        },
+        {
+            "product": "Tablet",
+            "total_revenue": 66920.16,
+            "avg_order": 1370.8,
+            "total_units": 45,
+            "num_orders": 8
+        },
+        {
+            "product": "Keyboard",
+            "total_revenue": 57856.67,
+            "avg_order": 1259.95,
+            "total_units": 49,
+            "num_orders": 9
+        },
+        {
+            "product": "Phone",
+            "total_revenue": 55449.27,
+            "avg_order": 999.07,
+            "total_units": 61,
+            "num_orders": 13
+        },
+        {
+            "product": "Laptop",
+            "total_revenue": 33068.93,
+            "avg_order": 1118.59,
+            "total_units": 29,
+            "num_orders": 7
+        }
+    ],
+    "country_breakdown": [
+        {
+            "country": "UK",
+            "total_revenue": 115874.92,
+            "avg_order": 1401.4,
+            "num_orders": 14
+        },
+        {
+            "country": "Germany",
+            "total_revenue": 61677.59,
+            "avg_order": 874.4,
+            "num_orders": 14
+        },
+        {
+            "country": "India",
+            "total_revenue": 46958.85,
+            "avg_order": 1380.14,
+            "num_orders": 7
+        },
+        {
+            "country": "France",
+            "total_revenue": 46719.38,
+            "avg_order": 1328.37,
+            "num_orders": 8
+        },
+        {
+            "country": "USA",
+            "total_revenue": 33329.32,
+            "avg_order": 1331.65,
+            "num_orders": 7
+        }
+    ]
+}
