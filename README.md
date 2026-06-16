@@ -88,10 +88,4 @@ The dashboard contains 4 charts:
 - ✅ JSON data export for downstream consumption
 - ✅ End-to-end pipeline from raw data to business insights
 
----
 
-## 👤 Author
-
-**Sindhura Srirama Reddy**
-MSc Artificial Intelligence & Data Science — Deggendorf Institute of Technology
-[GitHub](https://github.com/sindhurasreddy-del) · [Portfolio](https://sindhurasreddy-del.github.io)
